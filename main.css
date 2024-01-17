@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.login-container .right-section {
+  color: white;
+  background-color: black;
+}
+.login-container .left-section {
+  color: black;
+  background-color: white;
+}
+
+span {
+  display: inline-block;
+}/*# sourceMappingURL=main.css.map */
